@@ -1,8 +1,4 @@
 # Raven Z
-<p align="center">
-  <img src="https://img.shields.io/badge/MC-1.8.9-brightgreen.svg" alt="Minecraft"/>
-</p>
-
 
 Raven Z is built on top of Raven b+, adding quality of life improvements, bug fixes, and much more.<br>
 
@@ -35,5 +31,3 @@ You should follow [this](https://gist.github.com/MarcDiethelm/7303312#file-contr
 
 #### Readme last updated on 16/01/2022. Bug and update info and other stuff may be out of date. 
 
-[![Stargazers over time](https://starchart.cc/Kopamed/Raven-bPLUS.svg)](https://starchart.cc/Kopamed/Raven-bPLUS)
-<br> Started on the 27th of July 2021. Archived on the 19th August 2022.
