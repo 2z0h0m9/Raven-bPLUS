@@ -1,4 +1,4 @@
-# Raven B+
+# Raven Z
 <p align="center">
   <img src="https://img.shields.io/badge/MC-1.8.9-brightgreen.svg" alt="Minecraft"/>
 </p>
@@ -18,11 +18,7 @@
 
 ##### Discontinued due to lack of time, motivation, and because I no longer play.
 
-Raven b+ is built on top of Raven b3, adding quality of life improvements, bug fixes, and much more.<br>
-Discord:<br>
-<a href="https://discord.gg/QQMQfCRyNP"><img src="https://invidget.switchblade.xyz/QQMQfCRyNP" alt="https://discord.gg/QQMQfCRyNP"/></a><br>
-Backup: <br>
-<a href="https://discord.gg/XhVt9NMtBE"><img src="https://invidget.switchblade.xyz/XhVt9NMtBE" alt="https://discord.gg/XhVt9NMtBE"/></a><br>
+Raven Z is built on top of Raven b+, adding quality of life improvements, bug fixes, and much more.<br>
 
 # Installation
 ## User
@@ -47,9 +43,6 @@ https://imgur.com/a/X3G5R6W
 
 ## Improved Modules
 Too much to list. But I am also very good at creating bugs... *cough cough* I mean features
-
-## Todo
-[Here](https://github.com/Kopamed/Raven-bPLUS/projects/1)
 
 ## Contributing
 You should follow [this](https://gist.github.com/MarcDiethelm/7303312#file-contributing-md) guide to contribute code to the repo. Ideally, try to work on the [new-base](https://github.com/Kopamed/Raven-bPLUS/tree/new-base) branch as it will soon get merged into main. Find things to do in the todo above
